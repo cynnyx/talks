@@ -25,7 +25,7 @@ Keep in touch with us for further details.
 * 2016-12-21 -
 * ...
 
-## Partecipate
+## Contribute
 
 Talks are proposed and discussed as issues. Feel free to ask for an argument you are interested in.  
 Request for talks shoud be labelled with _desiderata_, while proposal should be labelled with _proposal_.
