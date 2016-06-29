@@ -10,7 +10,7 @@ Keep in touch with us for further details.
 ## Agenda:
 
 * 2016-06-22 - [Testing Lecture by Fabio Collini](https://www.youtube.com/watch?v=BWl4r1E3CbE) (_italian version_)
-* 2016-07-05 - [Concurrent Programming in a shared memory environment]
+* 2016-07-05 -
 * 2016-07-19 -
 * 2016-08-03 -
 * 2016-08-17 -
