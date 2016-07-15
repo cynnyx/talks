@@ -10,7 +10,7 @@ Keep in touch with us for further details.
 ## Agenda:
 
 * 2016-06-22 - [Testing Lecture by Fabio Collini](https://www.youtube.com/watch?v=BWl4r1E3CbE) (_italian version_)
-* 2016-07-05 - [TDD for dummies by Andrea Koutifaris](https://www.youtube.com/watch?v=cn-i6B7BGYQ) (_italian version_)
+* 2016-07-06 - [TDD for dummies by Andrea Koutifaris](https://www.youtube.com/watch?v=cn-i6B7BGYQ) (_italian version_)
 * 2016-07-20 - Concurrent programming by Tazio Ceri
 * 2016-08-03 -
 * 2016-08-17 -
