@@ -11,7 +11,7 @@ Keep in touch with us for further details.
 
 * 2016-06-22 - [Testing Lecture by Fabio Collini](https://www.youtube.com/watch?v=BWl4r1E3CbE) (_italian version_)
 * 2016-07-06 - [TDD for dummies by Andrea Koutifaris](https://www.youtube.com/watch?v=cn-i6B7BGYQ) (_italian version_)
-* 2016-07-20 - Concurrent programming by Tazio Ceri
+* 2016-07-20 - [Concurrent programming by Tazio Ceri](https://www.youtube.com/watch?v=If4eeSkuzsA) (_italian version_)
 * 2016-08-03 - Financial aspects and start-up funding by Vieri Spadoni
 * 2016-08-24 - C++ Metaprogramming: cracking a sledgehammer using a nut by Michele Caini
 * 2016-09-07 - Multiparallel patterns by Francesco De Felice and Alessandro Lenzi
