@@ -14,7 +14,7 @@ Keep in touch with us for further details.
 * 2016-07-20 - [Concurrent programming by Tazio Ceri](https://www.youtube.com/watch?v=If4eeSkuzsA) (_italian version_)
 * 2016-08-03 - Financial aspects and start-up funding by Vieri Spadoni
 * 2016-08-24 - C++ Metaprogramming: cracking a sledgehammer using a nut by Michele Caini
-* 2016-09-07 - Multiparallel patterns by Francesco De Felice and Alessandro Lenzi
+* 2016-09-07 - Parallel Programming Patterns by Francesco De Felice and Alessandro Lenzi
 * 2016-09-21 - An introductory talk on neural networks and other dangerous things by Tommaso Matassini and Michele Toni
 * 2016-09-28 -
 * 2016-10-12 -
