@@ -17,7 +17,7 @@ Keep in touch with us for further details.
 * 2016-09-07 - Parallel Programming Patterns by Francesco De Felice and Alessandro Lenzi
 * 2016-09-21 - An introduction to neural networks and other greedy beasts by Tommaso Matassini and Michele Toni
 * 2016-10-05 - 3D graphics: an introduction by Lorenzo Linari
-* 2016-10-19 -
+* 2016-10-19 - Exceptional programming by Tazio Ceri
 * 2016-11-09 -
 * 2016-11-23 -
 * 2016-12-07 -
