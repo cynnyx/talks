@@ -18,10 +18,10 @@ Keep in touch with us for further details.
 * 2016-09-21 - An introduction to neural networks and other greedy beasts by Tommaso Matassini and Michele Toni
 * 2016-10-05 - 3D graphics: an introduction by Lorenzo Linari
 * 2016-10-19 - Exceptional programming by Tazio Ceri
-* 2016-11-09 -
-* 2016-11-23 -
-* 2016-12-07 -
-* 2016-12-21 -
+* 2016-11-02 - Seven perpendicular, red, transparent lines with blue ink by Michele Caini
+* 2016-11-16 -
+* 2016-11-30 -
+* 2016-12-14 -
 * ...
 
 ## Contribute
