@@ -9,10 +9,10 @@ Keep in touch with us for further details.
 
 ## Agenda:
 
-* 2016-06-22 - [Testing Lecture by Fabio Collini](https://www.youtube.com/watch?v=BWl4r1E3CbE) (_italian version_)
-* 2016-07-06 - [TDD for dummies by Andrea Koutifaris](https://www.youtube.com/watch?v=cn-i6B7BGYQ) (_italian version_)
-* 2016-07-20 - [Concurrent programming by Tazio Ceri](https://www.youtube.com/watch?v=If4eeSkuzsA) (_italian version_)
-* 2016-08-03 - [Financial aspects and start-up funding by Vieri Spadoni](https://www.youtube.com/watch?v=S_nYklY-EFk) (_italian version_)
+* 2016-06-22 - [Testing Lecture](https://www.youtube.com/watch?v=BWl4r1E3CbE) by Fabio Collini (_italian version_)
+* 2016-07-06 - [TDD for dummies](https://www.youtube.com/watch?v=cn-i6B7BGYQ) by Andrea Koutifaris (_italian version_)
+* 2016-07-20 - [Concurrent programming](https://www.youtube.com/watch?v=If4eeSkuzsA) by Tazio Ceri (_italian version_)
+* 2016-08-03 - [Financial aspects and start-up funding](https://www.youtube.com/watch?v=S_nYklY-EFk) by Vieri Spadoni (_italian version_)
 * 2016-08-24 - C++: To template or not to template by Michele Caini
 * 2016-09-07 - Parallel Programming Patterns by Francesco De Felice and Alessandro Lenzi
 * 2016-09-21 - An introduction to neural networks and other greedy beasts by Tommaso Matassini and Michele Toni
