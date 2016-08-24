@@ -29,3 +29,7 @@ Keep in touch with us for further details.
 Talks are proposed and discussed as issues. Feel free to ask for an argument you are interested in.  
 Request for talks shoud be labelled with _desiderata_, while proposal should be labelled with _proposal_.
 
+# License
+
+Video and documentation Copyright (c) 2016 Cynny SpA.<br/>
+Video and documentation released under [Creative Commons](https://github.com/cynnyx/talks/blob/master/LICENSE).
