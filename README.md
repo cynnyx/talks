@@ -12,8 +12,8 @@ Keep in touch with us for further details.
 * 2016-06-22 - [Testing Lecture](https://www.youtube.com/watch?v=BWl4r1E3CbE) by Fabio Collini (_italian version_)
 * 2016-07-06 - [TDD for dummies](https://www.youtube.com/watch?v=cn-i6B7BGYQ) by Andrea Koutifaris (_italian version_)
 * 2016-07-20 - [Concurrent programming](https://www.youtube.com/watch?v=If4eeSkuzsA) by Tazio Ceri (_italian version_)
-* 2016-08-03 - [Financial aspects and start-up funding](https://www.youtube.com/watch?v=S_nYklY-EFk) by Vieri Spadoni (_italian version_)
-* 2016-08-24 - [C++: To template or not to template](https://www.youtube.com/watch?v=0G0NdjFEvWI) by Michele Caini (_italian version_)
+* 2016-08-03 - [Financial aspects and start-up funding](https://www.youtube.com/watch?v=S_nYklY-EFk) by Vieri Spadoni (_italian version_) \[[slides]()\]
+* 2016-08-24 - [C++: To template or not to template](https://www.youtube.com/watch?v=0G0NdjFEvWI) by Michele Caini (_italian version_) \[[slides]\](https://github.com/cynnyx/talks/blob/master/slides/20160824-template_metaprogramming.pdf)
 * 2016-09-07 - Parallel Programming Patterns by Francesco De Felice and Alessandro Lenzi
 * 2016-09-21 - An introduction to neural networks and other greedy beasts by Tommaso Matassini and Michele Toni
 * 2016-10-05 - 3D graphics: an introduction by Lorenzo Linari
