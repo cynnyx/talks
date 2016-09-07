@@ -9,7 +9,7 @@ Keep in touch with us for further details.
 
 ## Agenda:
 
-* 2016-06-22 - [Testing Lecture](https://www.youtube.com/watch?v=BWl4r1E3CbE) by Fabio Collini (_italian version_)
+* 2016-06-22 - [Testing Lecture](https://www.youtube.com/watch?v=BWl4r1E3CbE) by Fabio Collini (_italian version_) \[[slides]()\]
 * 2016-07-06 - [TDD for dummies](https://www.youtube.com/watch?v=cn-i6B7BGYQ) by Andrea Koutifaris (_italian version_) \[[slides](https://github.com/cynnyx/talks/raw/master/slides/20160706-TDD_for_dummies.pdf)\]
 * 2016-07-20 - [Concurrent programming](https://www.youtube.com/watch?v=If4eeSkuzsA) by Tazio Ceri (_italian version_) \[[slides](https://github.com/cynnyx/talks/raw/master/slides/20160720-concurrent_programming.pdf)\]
 * 2016-08-03 - [Financial aspects and start-up funding](https://www.youtube.com/watch?v=S_nYklY-EFk) by Vieri Spadoni (_italian version_) \[[slides](https://github.com/cynnyx/talks/raw/master/slides/20160803-startup_funding.pdf)\]
