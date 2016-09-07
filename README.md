@@ -20,8 +20,8 @@ Keep in touch with us for further details.
 * 2016-10-19 - Exceptional programming by Tazio Ceri
 * 2016-11-02 - Seven perpendicular, red, transparent lines with blue ink by Michele Caini
 * 2016-11-16 - gdb from a dummy by Federico Bertolucci
-* 2016-11-30 -
-* 2016-12-14 -
+* 2016-11-30 - advanced algorithms for efficient computation by Francesco De Felice and Alessandro Lenzi
+* 2016-12-14 - collections, iterators and streams with examples by Fabio Collini
 * ...
 
 ## Contribute
