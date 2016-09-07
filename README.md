@@ -14,7 +14,7 @@ Keep in touch with us for further details.
 * 2016-07-20 - [Concurrent programming](https://www.youtube.com/watch?v=If4eeSkuzsA) by Tazio Ceri (_italian version_) \[[slides](https://github.com/cynnyx/talks/raw/master/slides/20160720-concurrent_programming.pdf)\]
 * 2016-08-03 - [Financial aspects and start-up funding](https://www.youtube.com/watch?v=S_nYklY-EFk) by Vieri Spadoni (_italian version_) \[[slides](https://github.com/cynnyx/talks/raw/master/slides/20160803-startup_funding.pdf)\]
 * 2016-08-24 - [C++: To template or not to template](https://www.youtube.com/watch?v=0G0NdjFEvWI) by Michele Caini (_italian version_) \[[slides](https://github.com/cynnyx/talks/raw/master/slides/20160824-template_metaprogramming.pdf)\]
-* 2016-09-07 - [Parallel Programming Patterns](https://www.youtube.com/watch?v=uw9jGuqKDyY) by Francesco De Felice and Alessandro Lenzi (_italian version_) \[[slides]()\]
+* 2016-09-07 - [Parallel Programming Patterns](https://www.youtube.com/watch?v=uw9jGuqKDyY) by Francesco De Felice and Alessandro Lenzi (_italian version_) \[[slides](https://github.com/cynnyx/talks/raw/master/slides/20160907-parallel_programming_patterns.pdf)\]
 * 2016-09-21 - An introduction to neural networks and other greedy beasts by Tommaso Matassini and Michele Toni
 * 2016-10-05 - 3D graphics: an introduction by Lorenzo Linari
 * 2016-10-19 - Exceptional programming by Tazio Ceri
