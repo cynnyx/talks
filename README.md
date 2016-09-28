@@ -17,7 +17,7 @@ Keep in touch with us for further details.
 * 2016-09-07 - [Parallel Programming Patterns](https://www.youtube.com/watch?v=uw9jGuqKDyY) by Francesco De Felice and Alessandro Lenzi (_italian version_) \[[slides](https://github.com/cynnyx/talks/raw/master/slides/20160907-parallel_programming_patterns.pdf)\]
 * 2016-09-21 - [Deep learning introduction](https://www.youtube.com/watch?v=eGdo1eupKto) by Tommaso Matassini and Michele Toni (_italian version_)\[[slides](https://docs.google.com/presentation/d/1O-imWXIUSIGzFk1r1gBnK82y2zYv_c8z9ztIdx_TrXc/edit?usp=sharing)\]
 * 2016-09-28 - Business perspectives and plans by Renato Iwersen
-* 2016-10-05 - 3D graphics: an introduction by Lorenzo Linari
+[//]: # (* 2016-10-05 - 3D graphics: an introduction by Lorenzo Linari)
 * 2016-10-19 - Exceptional programming by Tazio Ceri
 * 2016-11-02 - Seven perpendicular, red, transparent lines with blue ink by Michele Caini
 * 2016-11-16 - The infamous XYZ design pattern by Andrea Koutifaris
