@@ -21,7 +21,7 @@ Keep in touch with us for further details.
 * 2016-11-16 - Design patterns for dummies Andrea Koutifaris \[[slides](https://github.com/cynnyx/talks/raw/master/slides/20161116-design_patterns_for_dummies.pdf)\]
 * 2016-11-30 - [Collections, iterators and streams with examples](https://www.youtube.com/watch?v=ze6-2MGck_I) by Fabio Collini \[[demo](https://github.com/cynnyx/ListToStream/tree/master/app/src/main/java/com/cynny/streams)\]
 * 2016-12-14 - [The dictionary problem: ...](https://www.youtube.com/watch?v=lqAlR1kOtF4&feature=youtu.be) by Francesco De Felice and Alessandro Lenzi (_italian version_) \[[slides](https://github.com/cynnyx/talks/raw/master/slides/20161214-dictionary_problem.pdf)\]
-* 2017-01-11 - Application and System Profiling by Tazio Ceri
+* 2017-03-08 - [Application and System Profiling] by Tazio Ceri
 
 [//]: # "* 2016-11-02 - Seven perpendicular, red, transparent lines with blue ink by Michele Caini"
 
