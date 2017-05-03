@@ -38,5 +38,5 @@ Request for talks shoud be labelled with _desiderata_, while proposal should be 
 
 # License
 
-Video and documentation Copyright (c) 2016 Cynny SpA.<br/>
+Video and documentation Copyright (c) 2017 Cynny SpA.<br/>
 Video and documentation released under [Creative Commons](https://github.com/cynnyx/talks/blob/master/LICENSE).
